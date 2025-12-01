@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Trust You Forever",
+  "base_artist": "Yoshifumi Ushima",
+  "createdAt": "2025-12-01T18:51:09.112756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trust You Forever",
+      "artist": "鵜島仁文",
+      "has_synced": true,
+      "path": "select/01_Trust_You_Forever_鵜島仁文.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trust You Forever",
+      "artist": "Yoshifumi Ushima",
+      "has_synced": true,
+      "path": "select/02_Trust_You_Forever_Yoshifumi_Ushima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trust You Forever",
+      "artist": "Yoshifumi Ushima",
+      "has_synced": true,
+      "path": "select/03_Trust_You_Forever_Yoshifumi_Ushima.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trust You Forever",
+      "artist": "Hitofumi Ushima",
+      "has_synced": true,
+      "path": "select/04_Trust_You_Forever_Hitofumi_Ushima.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trust You Forever (karaoke)",
+      "artist": "Yoshifumi Ushima",
+      "has_synced": true,
+      "path": "select/05_Trust_You_Forever_(karaoke)_Yoshifumi_Ushima.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trust You Forever - 2017 Remaster",
+      "artist": "Yoshifumi Ushima",
+      "has_synced": true,
+      "path": "select/06_Trust_You_Forever_-_2017_Remaster_Yoshifumi_Ushima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trust You Forever",
+      "artist": "Ushima Yoshifumi",
+      "has_synced": true,
+      "path": "select/07_Trust_You_Forever_Ushima_Yoshifumi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trust You Forever",
+      "artist": "鵜島仁文",
+      "has_synced": false,
+      "path": "select/pl_01_Trust_You_Forever_鵜島仁文.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Trust You Forever",
+      "artist": "鵜島仁文",
+      "has_synced": false,
+      "path": "select/pl_02_Trust_You_Forever_鵜島仁文.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Trust You Forever",
+      "artist": "鵜島仁文",
+      "has_synced": false,
+      "path": "select/pl_03_Trust_You_Forever_鵜島仁文.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Trust You Forever",
+      "artist": "鵜島仁文",
+      "has_synced": false,
+      "path": "select/pl_04_Trust_You_Forever_鵜島仁文.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Trust You Forever",
+      "artist": "鵜島仁文",
+      "has_synced": false,
+      "path": "select/pl_05_Trust_You_Forever_鵜島仁文.txt"
+    }
+  ]
+}
